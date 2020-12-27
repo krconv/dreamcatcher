@@ -1,0 +1,7 @@
+appdirs==1.4.4
+boto3==1.14.50
+click==7.1.2
+dateparser==0.7.6
+PyDispatcher==2.0.5
+ratelimit==2.2.1
+Scrapy==2.3.0
